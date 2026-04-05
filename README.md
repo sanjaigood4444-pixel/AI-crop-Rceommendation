@@ -33,6 +33,24 @@ main.py
 dataset.csv
 images/
 
+## 📊 Model Performance
+
+The following machine learning models were implemented and evaluated:
+
+| Model | Accuracy |
+|------|----------|
+| Random Forest | 99.54% |
+| XGBoost | 98.64% |
+| CatBoost | 99.32% |
+
+### 🔍 Observations
+- Random Forest achieved the highest accuracy.
+- CatBoost performed competitively with strong results.
+- XGBoost also provided reliable predictions.
+
+### ✅ Conclusion
+Random Forest was selected as the final model due to its superior performance and stability.
+
 ## 📸 Sample Output
 
 ### 🌾 Crop Prediction UI
