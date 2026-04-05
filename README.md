@@ -1,3 +1,12 @@
+# 🌾 AI Crop Recommendation & Yield Prediction System
+
+## 📌 Description
+This project predicts the most suitable crop and expected yield using soil nutrients and environmental conditions.
+
+## ⚙️ Technologies Used
+- Python
+- Streamlit
+- Machine Learning (Random Forest)
 
 ## 🚀 Features
 - Crop Recommendation 🌾
@@ -18,6 +27,7 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+'''
 📁 Project Structure
 app.py
 main.py
@@ -37,10 +47,4 @@ CatBoost performed competitively with strong results.
 XGBoost also provided reliable predictions.
 ✅ Conclusion
 
-Random Forest was selected as the final model due to its superior performance and stability.
-
-📸 Sample Output
-🌾 Crop Prediction UI
-<img width="870" src="https://github.com/user-attachments/assets/31d9f27b-ea20-412c-b3f4-c00bc2b768d7" />
-📈 Prediction Result
-<img width="804" src="https://github.com/user-attachments/assets/61e72baf-aaf8-4ee6-858d-a17a5957d992" /> ``
+Random Forest was selected as the final model due to its superior performance and stability
