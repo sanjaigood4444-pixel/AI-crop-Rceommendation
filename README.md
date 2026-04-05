@@ -33,7 +33,8 @@ main.py
 dataset.csv
 images/
 
-## Sample output
-<img width="870" height="588" alt="image" src="https://github.com/user-attachments/assets/31d9f27b-ea20-412c-b3f4-c00bc2b768d7" />
-<img width="804" height="345" alt="image" src="https://github.com/user-attachments/assets/61e72baf-aaf8-4ee6-858d-a17a5957d992" />
+## Sample Output
 
+<img width="870" height="588" alt="image" src="https://github.com/user-attachments/assets/31d9f27b-ea20-412c-b3f4-c00bc2b768d7" />
+
+<img width="804" height="345" alt="image" src="https://github.com/user-attachments/assets/61e72baf-aaf8-4ee6-858d-a17a5957d992" />
